@@ -1,4 +1,30 @@
 {
-  "name": "md-links",
-  "version": "0.1.0"
+  "name": "package.json",
+  "version": "0.1.0",
+  "dependencies": {
+    "jest": "^24.8.0"
+  },
+  "description": "## Preámbulo",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaviza90/GDL003-md-links.git"
+  },
+  "keywords": [
+    "md",
+    "links"
+  ],
+  "author": "Karla Viera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaviza90/GDL003-md-links/issues"
+  },
+  "homepage": "https://github.com/kaviza90/GDL003-md-links#readme"
 }
